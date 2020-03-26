@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projekt</string>
+    <string name = "Username">beniek110</string>
+    <string name = "Password">aleale</string>
+    <string name = "WrongData">Incorrect Username or Password</string>
+
+</resources>
